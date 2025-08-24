@@ -1,1 +1,1 @@
-# Noom : webRTC와 websockets을 활용한 zoom 클론 코딩
+# webRTC와 websockets을 활용한 zoom 클론 코딩
